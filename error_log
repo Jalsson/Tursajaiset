@@ -1,0 +1,30 @@
+[04-Feb-2020 20:11:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 73
+[04-Feb-2020 20:24:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 76
+[04-Feb-2020 20:24:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 76
+[04-Feb-2020 20:25:04 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 76
+[04-Feb-2020 20:25:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 76
+[04-Feb-2020 20:25:27 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/index.php(82): include()
+#1 {main}
+  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
+[04-Feb-2020 20:25:41 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/index.php(82): include()
+#1 {main}
+  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
+[04-Feb-2020 20:25:44 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/index.php(82): include()
+#1 {main}
+  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
+[04-Feb-2020 20:26:15 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/index.php(82): include()
+#1 {main}
+  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
+[04-Feb-2020 20:28:00 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/index.php(82): include()
+#1 {main}
+  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16

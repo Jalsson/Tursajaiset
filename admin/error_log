@@ -1,0 +1,7 @@
+[03-Feb-2020 14:14:19 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';' in /home/int22448/public_html/kisapanel/admin/content/editTeams.php on line 25
+[03-Feb-2020 16:10:53 Europe/Helsinki] PHP Warning:  include(/admin/content/login.php): failed to open stream: No such file or directory in /home/int22448/public_html/kisapanel/admin/index.php on line 86
+[03-Feb-2020 16:10:53 Europe/Helsinki] PHP Warning:  include(/admin/content/login.php): failed to open stream: No such file or directory in /home/int22448/public_html/kisapanel/admin/index.php on line 86
+[03-Feb-2020 16:10:53 Europe/Helsinki] PHP Warning:  include(): Failed opening '/admin/content/login.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/int22448/public_html/kisapanel/admin/index.php on line 86
+[03-Feb-2020 16:10:53 Europe/Helsinki] PHP Warning:  include(/admin/content/login.php): failed to open stream: No such file or directory in /home/int22448/public_html/kisapanel/admin/index.php on line 86
+[03-Feb-2020 16:10:53 Europe/Helsinki] PHP Warning:  include(/admin/content/login.php): failed to open stream: No such file or directory in /home/int22448/public_html/kisapanel/admin/index.php on line 86
+[03-Feb-2020 16:10:53 Europe/Helsinki] PHP Warning:  include(): Failed opening '/admin/content/login.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/int22448/public_html/kisapanel/admin/index.php on line 86
