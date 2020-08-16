@@ -4,5 +4,5 @@ session_start();
 
 session_destroy();
 
-header("Location: /tursajaiset/vihjeet");
+header("Location: https://htory.fi/tursajaiset/vihjeet/admin");
 ?>

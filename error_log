@@ -1,30 +1,405 @@
-[04-Feb-2020 20:11:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 73
-[04-Feb-2020 20:24:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 76
-[04-Feb-2020 20:24:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 76
-[04-Feb-2020 20:25:04 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 76
-[04-Feb-2020 20:25:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/int22448/public_html/kisapanel/content/pointView.php on line 76
-[04-Feb-2020 20:25:27 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+[23-Mar-2020 21:34:02 Europe/Helsinki] PHP Warning:  realpath() expects exactly 1 parameter, 0 given in /home/int22448/public_html/kisapanel/public/team/index.php on line 68
+[23-Mar-2020 21:35:47 Europe/Helsinki] PHP Warning:  dirname() expects at least 1 parameter, 0 given in /home/int22448/public_html/kisapanel/public/team/index.php on line 68
+[23-Mar-2020 21:36:55 Europe/Helsinki] PHP Warning:  dirname() expects at least 1 parameter, 0 given in /home/int22448/public_html/kisapanel/public/team/index.php on line 68
+[23-Mar-2020 21:37:04 Europe/Helsinki] PHP Warning:  dirname() expects at least 1 parameter, 0 given in /home/int22448/public_html/kisapanel/public/team/index.php on line 68
+[23-Mar-2020 21:38:21 Europe/Helsinki] PHP Warning:  dirname() expects at least 1 parameter, 0 given in /home/int22448/public_html/kisapanel/public/team/index.php on line 68
+[23-Mar-2020 21:38:58 Europe/Helsinki] PHP Warning:  dirname() expects at least 1 parameter, 0 given in /home/int22448/public_html/kisapanel/public/team/index.php on line 68
+[23-Mar-2020 21:39:15 Europe/Helsinki] PHP Warning:  dirname() expects at least 1 parameter, 0 given in /home/int22448/public_html/kisapanel/public/team/index.php on line 68
+[23-Mar-2020 21:39:21 Europe/Helsinki] PHP Warning:  dirname() expects at least 1 parameter, 0 given in /home/int22448/public_html/kisapanel/public/team/index.php on line 68
+[23-Mar-2020 22:59:44 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:44 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:44 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:44 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:44 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:44 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:44 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:10) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 22:59:50 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:50 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:50 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:50 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:50 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:50 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:50 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:10) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 22:59:53 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:53 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:53 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:53 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:53 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:53 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:53 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:10) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 22:59:57 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:57 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:57 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:57 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:57 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:57 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 22:59:57 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:10) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 23:00:07 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:07 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:07 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:07 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:07 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:07 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:07 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:10) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 23:00:15 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:15 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:15 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:15 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:15 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:15 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:15 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:10) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 23:00:21 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:21 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:21 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:21 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:21 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:21 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:21 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:10) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 23:00:33 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:33 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:33 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:33 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:33 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:33 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:33 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 23:00:36 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:36 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:36 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:36 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:36 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:36 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:00:36 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 23:01:25 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 76
+[23-Mar-2020 23:01:25 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 76
+[23-Mar-2020 23:01:25 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 76
+[23-Mar-2020 23:01:25 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 76
+[23-Mar-2020 23:01:25 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 76
+[23-Mar-2020 23:01:25 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 76
+[23-Mar-2020 23:01:25 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:28) in /home/int22448/public_html/kisapanel/public/login.php on line 86
+[23-Mar-2020 23:01:38 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:28) in /home/int22448/public_html/kisapanel/public/login.php on line 83
+[23-Mar-2020 23:01:41 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:28) in /home/int22448/public_html/kisapanel/public/login.php on line 83
+[23-Mar-2020 23:01:47 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:28) in /home/int22448/public_html/kisapanel/public/login.php on line 83
+[23-Mar-2020 23:01:53 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:28) in /home/int22448/public_html/kisapanel/public/login.php on line 83
+[23-Mar-2020 23:02:41 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:28) in /home/int22448/public_html/kisapanel/public/login.php on line 83
+[23-Mar-2020 23:02:50 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:28) in /home/int22448/public_html/kisapanel/public/login.php on line 117
+[23-Mar-2020 23:02:57 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:28) in /home/int22448/public_html/kisapanel/public/login.php on line 117
+[23-Mar-2020 23:03:13 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 116
+[23-Mar-2020 23:03:17 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 82
+[23-Mar-2020 23:03:26 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 82
+[23-Mar-2020 23:04:44 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 82
+[23-Mar-2020 23:05:36 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 85
+[23-Mar-2020 23:06:24 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 83
+[23-Mar-2020 23:07:40 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:40 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:40 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:40 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:40 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:40 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:40 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 23:07:54 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:54 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:54 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:54 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:54 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:54 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 77
+[23-Mar-2020 23:07:54 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 87
+[23-Mar-2020 23:09:27 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 84
+[23-Mar-2020 23:10:11 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 84
+[23-Mar-2020 23:11:27 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 83
+[23-Mar-2020 23:12:44 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 85
+[23-Mar-2020 23:12:49 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 85
+[23-Mar-2020 23:12:54 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 85
+[23-Mar-2020 23:13:31 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 85
+[23-Mar-2020 23:16:34 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 82
+[23-Mar-2020 23:19:23 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:19:23 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:19:23 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:19:23 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:19:23 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:19:23 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:20:08 Europe/Helsinki] PHP Warning:  Use of undefined constant remember - assumed 'remember' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:20:08 Europe/Helsinki] PHP Warning:  Use of undefined constant team - assumed 'team' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:20:08 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:20:08 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:20:08 Europe/Helsinki] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[23-Mar-2020 23:20:08 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/login.php on line 74
+[24-Mar-2020 22:33:36 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:33:36 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:34:27 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:34:27 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:35:01 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:35:01 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:37:03 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 144
+[24-Mar-2020 22:37:03 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 151
+[24-Mar-2020 22:37:48 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 226
+[24-Mar-2020 22:37:48 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 230
+[24-Mar-2020 22:38:25 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 148
+[24-Mar-2020 22:38:25 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 152
+[24-Mar-2020 22:38:29 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:38:29 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:38:32 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:38:32 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:38:36 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:38:36 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:38:49 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 111
+[24-Mar-2020 22:38:51 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 111
+[24-Mar-2020 22:38:53 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 111
+[24-Mar-2020 22:39:32 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:39:32 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:39:51 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:39:51 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:42:59 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:42:59 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:50:37 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:50:37 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:53:14 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 22:53:14 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:53:40 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 111
+[24-Mar-2020 22:53:46 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 111
+[24-Mar-2020 22:54:31 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:54:41 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 102
+[24-Mar-2020 22:54:41 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:55:53 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 22:56:18 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 108
+[24-Mar-2020 22:56:24 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 108
+[24-Mar-2020 22:56:29 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 108
+[24-Mar-2020 23:00:09 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 95
+[24-Mar-2020 23:00:09 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 102
+[24-Mar-2020 23:01:45 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 109
+[24-Mar-2020 23:01:55 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 107
+[24-Mar-2020 23:01:58 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 107
+[24-Mar-2020 23:03:08 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 107
+[24-Mar-2020 23:03:31 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 23:03:35 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 23:04:42 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 23:05:21 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 95
+[24-Mar-2020 23:05:21 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 102
+[24-Mar-2020 23:05:28 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 95
+[24-Mar-2020 23:05:28 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 102
+[24-Mar-2020 23:05:38 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 95
+[24-Mar-2020 23:05:38 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 102
+[24-Mar-2020 23:08:36 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 92
+[24-Mar-2020 23:08:36 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 99
+[24-Mar-2020 23:19:16 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 108
+[24-Mar-2020 23:19:31 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 108
+[24-Mar-2020 23:20:00 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 108
+[24-Mar-2020 23:20:03 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 108
+[24-Mar-2020 23:22:27 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 23:22:27 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[24-Mar-2020 23:27:41 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/login.php on line 105
+[24-Mar-2020 23:27:41 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/login.php:1) in /home/int22448/public_html/kisapanel/public/login.php on line 112
+[28-Mar-2020 20:16:41 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/index.php on line 123
+[28-Mar-2020 20:16:41 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/index.php on line 123
+[28-Mar-2020 21:18:51 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/index.php on line 122
+[28-Mar-2020 21:18:51 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/index.php on line 123
+[28-Mar-2020 21:18:51 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/index.php on line 124
+[29-Mar-2020 14:53:09 Europe/Helsinki] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function InsertPrepared(), 1 passed in /home/int22448/public_html/kisapanel/public/login.php on line 88 and exactly 2 expected in /home/int22448/public_html/kisapanel/tools/connectToDB.php:46
 Stack trace:
-#0 /home/int22448/public_html/kisapanel/index.php(82): include()
-#1 {main}
-  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
-[04-Feb-2020 20:25:41 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+#0 /home/int22448/public_html/kisapanel/public/login.php(88): InsertPrepared('INSERT INTO Tea...')
+#1 /home/int22448/public_html/kisapanel/index.php(104): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 46
+[29-Mar-2020 14:53:28 Europe/Helsinki] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function InsertPrepared(), 1 passed in /home/int22448/public_html/kisapanel/public/login.php on line 88 and exactly 2 expected in /home/int22448/public_html/kisapanel/tools/connectToDB.php:46
 Stack trace:
-#0 /home/int22448/public_html/kisapanel/index.php(82): include()
-#1 {main}
-  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
-[04-Feb-2020 20:25:44 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+#0 /home/int22448/public_html/kisapanel/public/login.php(88): InsertPrepared('INSERT INTO Tea...')
+#1 /home/int22448/public_html/kisapanel/index.php(104): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 46
+[29-Mar-2020 14:56:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 110
+[29-Mar-2020 14:57:48 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/int22448/public_html/kisapanel/public/login.php:90
 Stack trace:
-#0 /home/int22448/public_html/kisapanel/index.php(82): include()
+#0 /home/int22448/public_html/kisapanel/index.php(104): include()
 #1 {main}
-  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
-[04-Feb-2020 20:26:15 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+  thrown in /home/int22448/public_html/kisapanel/public/login.php on line 90
+[30-Mar-2020 14:55:41 Europe/Helsinki] PHP Fatal error:  Cannot redeclare get10MinuteTime() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:13) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 13
+[30-Mar-2020 14:55:46 Europe/Helsinki] PHP Fatal error:  Cannot redeclare get10MinuteTime() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:13) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 13
+[30-Mar-2020 14:55:56 Europe/Helsinki] PHP Fatal error:  Cannot redeclare get10MinuteTime() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:13) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 13
+[30-Mar-2020 14:56:12 Europe/Helsinki] PHP Fatal error:  Cannot redeclare get10MinuteTime() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:13) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 13
+[30-Mar-2020 14:56:21 Europe/Helsinki] PHP Fatal error:  Cannot redeclare get10MinuteTime() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:13) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 13
+[30-Mar-2020 14:59:41 Europe/Helsinki] PHP Fatal error:  Cannot redeclare get10MinuteTime() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:13) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 13
+[30-Mar-2020 15:00:28 Europe/Helsinki] PHP Fatal error:  Cannot redeclare get10MinuteTime() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:13) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 13
+[30-Mar-2020 15:01:12 Europe/Helsinki] PHP Fatal error:  Cannot redeclare logData() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:3) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 3
+[30-Mar-2020 15:08:25 Europe/Helsinki] PHP Fatal error:  Cannot redeclare get10MinuteTime() (previously declared in /home/int22448/public_html/kisapanel/tools/dataLoggin.php:13) in /home/int22448/public_html/kisapanel/tools/dataLoggin.php on line 13
+[13-Apr-2020 11:48:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/int22448/public_html/kisapanel/public/team/info.php on line 25
+[15-Apr-2020 11:42:04 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/checkpoint_admin/set_score.php on line 5
+[15-Apr-2020 11:42:17 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/checkpoint_admin/set_score.php on line 5
+[15-Apr-2020 11:42:47 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/checkpoint_admin/set_score.php on line 5
+[15-Apr-2020 11:57:44 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:98
 Stack trace:
-#0 /home/int22448/public_html/kisapanel/index.php(82): include()
-#1 {main}
-  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
-[04-Feb-2020 20:28:00 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/int22448/public_html/kisapanel/content/bar_hint.php:16
+#0 /home/int22448/public_html/kisapanel/public/checkpoint_admin/set_score.php(34): p_Statement_Score('60', 'testi vihje', 'admin', '6')
+#1 /home/int22448/public_html/kisapanel/index.php(118): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 98
+[15-Apr-2020 11:59:30 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:98
 Stack trace:
-#0 /home/int22448/public_html/kisapanel/index.php(82): include()
-#1 {main}
-  thrown in /home/int22448/public_html/kisapanel/content/bar_hint.php on line 16
+#0 /home/int22448/public_html/kisapanel/public/checkpoint_admin/set_score.php(34): p_Statement_Score('60', 'testi vihje', 'admin', '6')
+#1 /home/int22448/public_html/kisapanel/index.php(118): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 98
+[15-Apr-2020 11:59:50 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:98
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/checkpoint_admin/set_score.php(34): p_Statement_Score('60', 'testi vihje', 'admin', '6')
+#1 /home/int22448/public_html/kisapanel/index.php(118): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 98
+[15-Apr-2020 23:30:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/int22448/public_html/kisapanel/public/checkpoint_admin/set_score.php on line 9
+[15-Apr-2020 23:30:21 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/int22448/public_html/kisapanel/public/checkpoint_admin/set_score.php on line 9
+[16-Apr-2020 16:14:26 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/index.php on line 50
+[16-Apr-2020 16:21:40 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/index.php on line 50
+[16-Apr-2020 16:21:52 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/index.php on line 50
+[16-Apr-2020 16:31:27 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/index.php on line 58
+[16-Apr-2020 16:31:30 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/index.php on line 58
+[16-Apr-2020 16:36:18 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/index.php on line 59
+[16-Apr-2020 16:36:22 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/index.php on line 59
+[16-Apr-2020 16:36:50 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/index.php on line 59
+[16-Apr-2020 13:46:36 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/int22448/public_html/kisapanel/tools/connectToDB.php:30
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/admin_login.php(86): RunSqlQuery('Select password...')
+#1 /home/int22448/public_html/kisapanel/index.php(102): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[16-Apr-2020 13:46:56 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/int22448/public_html/kisapanel/tools/connectToDB.php:30
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/admin_login.php(86): RunSqlQuery('Select password...')
+#1 /home/int22448/public_html/kisapanel/index.php(102): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[16-Apr-2020 13:47:16 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/int22448/public_html/kisapanel/tools/connectToDB.php:30
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/admin_login.php(86): RunSqlQuery('Select password...')
+#1 /home/int22448/public_html/kisapanel/index.php(102): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[16-Apr-2020 13:48:34 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/int22448/public_html/kisapanel/tools/connectToDB.php:30
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/admin_login.php(86): RunSqlQuery('Select password...')
+#1 /home/int22448/public_html/kisapanel/index.php(101): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[16-Apr-2020 13:50:58 UTC] PHP Notice:  Undefined index: page in /home/int22448/public_html/kisapanel/index.php on line 89
+[16-Apr-2020 13:51:06 UTC] PHP Notice:  Undefined index: page in /home/int22448/public_html/kisapanel/index.php on line 89
+[16-Apr-2020 13:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/int22448/public_html/kisapanel/tools/connectToDB.php:30
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/login.php(78): RunSqlQuery('SELECT login_id...')
+#1 /home/int22448/public_html/kisapanel/index.php(133): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[16-Apr-2020 13:52:59 UTC] PHP Notice:  Undefined index: page in /home/int22448/public_html/kisapanel/index.php on line 89
+[16-Apr-2020 13:53:08 UTC] PHP Notice:  Undefined index: page in /home/int22448/public_html/kisapanel/index.php on line 89
+[16-Apr-2020 13:53:09 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/int22448/public_html/kisapanel/tools/connectToDB.php:30
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/login.php(78): RunSqlQuery('SELECT login_id...')
+#1 /home/int22448/public_html/kisapanel/index.php(133): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[16-Apr-2020 13:54:01 UTC] PHP Notice:  Undefined index: page in /home/int22448/public_html/kisapanel/index.php on line 89
+[16-Apr-2020 13:54:11 UTC] PHP Notice:  Undefined index: page in /home/int22448/public_html/kisapanel/index.php on line 89
+[16-Apr-2020 13:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/int22448/public_html/kisapanel/tools/connectToDB.php:30
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/login.php(78): RunSqlQuery('SELECT login_id...')
+#1 /home/int22448/public_html/kisapanel/index.php(133): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[16-Apr-2020 19:32:17 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/public/admin_login.php on line 102
+[16-Apr-2020 19:32:34 Europe/Helsinki] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/int22448/public_html/kisapanel/public/admin_login.php on line 102
+[18-Apr-2020 09:28:05 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:24:48 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:24:57 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:06 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:19 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:27 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:28 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:39 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:42 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:44 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:45 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:48 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:49 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:50 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:50 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:52 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:25:52 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 20:32:04 Europe/Helsinki] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'int22448'@'localhost' (using password: NO) in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 30
+[18-Apr-2020 21:21:26 Europe/Helsinki] PHP Warning:  require_once(../../tools/dbconfig.php): failed to open stream: No such file or directory in /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php on line 138
+[18-Apr-2020 21:21:26 Europe/Helsinki] PHP Fatal error:  require_once(): Failed opening required '../../tools/dbconfig.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php on line 138
+[18-Apr-2020 21:26:36 Europe/Helsinki] PHP Warning:  require_once(../../../tools/dbconfig.php): failed to open stream: No such file or directory in /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php on line 138
+[18-Apr-2020 21:26:36 Europe/Helsinki] PHP Fatal error:  require_once(): Failed opening required '../../../tools/dbconfig.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php on line 138
+[18-Apr-2020 21:27:19 Europe/Helsinki] PHP Warning:  require_once(../tools/dbconfig.php): failed to open stream: No such file or directory in /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php on line 138
+[18-Apr-2020 21:27:19 Europe/Helsinki] PHP Fatal error:  require_once(): Failed opening required '../tools/dbconfig.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php on line 138
+[18-Apr-2020 21:31:52 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:57
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php(166): p_Statement_log('Admin_log', 1, ';;', 'admin')
+#1 /home/int22448/public_html/kisapanel/index.php(128): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 57
+[19-Apr-2020 11:40:57 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:57
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/login.php(91): p_Statement_log('Team_log', 0, 'successful logi...', '555')
+#1 /home/int22448/public_html/kisapanel/index.php(134): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 57
+[19-Apr-2020 11:41:23 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:57
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/login.php(91): p_Statement_log('Team_log', 0, 'successful logi...', '333')
+#1 /home/int22448/public_html/kisapanel/index.php(134): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 57
+[19-Apr-2020 11:41:30 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:57
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/login.php(91): p_Statement_log('Team_log', 0, 'successful logi...', '555')
+#1 /home/int22448/public_html/kisapanel/index.php(134): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 57
+[19-Apr-2020 11:41:43 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:57
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/login.php(91): p_Statement_log('Team_log', 0, 'successful logi...', '555')
+#1 /home/int22448/public_html/kisapanel/index.php(134): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 57
+[19-Apr-2020 11:41:59 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:57
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/login.php(91): p_Statement_log('Team_log', 0, 'successful logi...', '555')
+#1 /home/int22448/public_html/kisapanel/index.php(134): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 57
+[19-Apr-2020 12:13:00 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:57
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/admin_login.php(101): p_Statement_log('Team_log', 0, 'logged in', 'admin')
+#1 /home/int22448/public_html/kisapanel/index.php(102): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 57
+[19-Apr-2020 12:16:46 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/int22448/public_html/kisapanel/tools/connectToDB.php:57
+Stack trace:
+#0 /home/int22448/public_html/kisapanel/public/admin_login.php(101): p_Statement_log('Admin_log', 0, 'logged in', 'admin')
+#1 /home/int22448/public_html/kisapanel/index.php(102): include('/home/int22448/...')
+#2 {main}
+  thrown in /home/int22448/public_html/kisapanel/tools/connectToDB.php on line 57
+[19-Apr-2020 14:07:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'RunSqlQuery' (T_STRING) in /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php on line 153
+[19-Apr-2020 14:07:22 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'RunSqlQuery' (T_STRING) in /home/int22448/public_html/kisapanel/public/checkpoint_admin/info.php on line 153
+[16-Aug-2020 19:46:00 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/admin_login.php on line 116
+[16-Aug-2020 19:46:00 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/admin_login.php on line 116
+[16-Aug-2020 21:27:27 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/admin_login.php on line 100
+[16-Aug-2020 21:27:27 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/admin_login.php:1) in /home/int22448/public_html/kisapanel/public/admin_login.php on line 105
+[16-Aug-2020 21:27:44 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/admin_login.php on line 100
+[16-Aug-2020 21:27:44 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/admin_login.php:1) in /home/int22448/public_html/kisapanel/public/admin_login.php on line 105
+[16-Aug-2020 21:30:21 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/admin_login.php on line 100
+[16-Aug-2020 21:30:21 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/admin_login.php:1) in /home/int22448/public_html/kisapanel/public/admin_login.php on line 105
+[16-Aug-2020 21:31:06 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/admin_login.php on line 100
+[16-Aug-2020 21:31:06 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/admin_login.php:1) in /home/int22448/public_html/kisapanel/public/admin_login.php on line 105
+[16-Aug-2020 21:32:16 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/admin_login.php on line 100
+[16-Aug-2020 21:32:16 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/admin_login.php:1) in /home/int22448/public_html/kisapanel/public/admin_login.php on line 105
+[16-Aug-2020 21:33:31 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/admin_login.php on line 100
+[16-Aug-2020 21:33:31 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/admin_login.php:1) in /home/int22448/public_html/kisapanel/public/admin_login.php on line 105
+[16-Aug-2020 21:35:37 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/admin_login.php on line 100
+[16-Aug-2020 21:35:37 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/admin_login.php:1) in /home/int22448/public_html/kisapanel/public/admin_login.php on line 105
+[16-Aug-2020 21:36:09 Europe/Helsinki] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/int22448/public_html/kisapanel/public/admin_login.php on line 100
+[16-Aug-2020 21:36:09 Europe/Helsinki] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/int22448/public_html/kisapanel/public/admin_login.php:1) in /home/int22448/public_html/kisapanel/public/admin_login.php on line 105
+[16-Aug-2020 22:07:10 Europe/Helsinki] PHP Warning:  preg_replace(): No ending delimiter ';' found in /home/int22448/public_html/kisapanel/tools/inputChecks.php on line 66
+[16-Aug-2020 22:07:57 Europe/Helsinki] PHP Warning:  preg_replace(): No ending delimiter ';' found in /home/int22448/public_html/kisapanel/tools/inputChecks.php on line 66
+[16-Aug-2020 22:08:12 Europe/Helsinki] PHP Warning:  preg_replace(): No ending delimiter ';' found in /home/int22448/public_html/kisapanel/tools/inputChecks.php on line 66
+[16-Aug-2020 22:10:56 Europe/Helsinki] PHP Warning:  preg_replace(): No ending delimiter ';' found in /home/int22448/public_html/kisapanel/tools/inputChecks.php on line 67
+[16-Aug-2020 22:11:12 Europe/Helsinki] PHP Warning:  preg_replace(): No ending delimiter ';' found in /home/int22448/public_html/kisapanel/tools/inputChecks.php on line 67
+[16-Aug-2020 22:33:36 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/feedBack.php on line 30
+[16-Aug-2020 22:33:36 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/feedBack.php on line 30
+[16-Aug-2020 22:34:05 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/feedBack.php on line 34
+[16-Aug-2020 22:34:05 Europe/Helsinki] PHP Warning:  A non-numeric value encountered in /home/int22448/public_html/kisapanel/public/feedBack.php on line 34

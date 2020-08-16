@@ -1,2 +1,15 @@
-<h1>Tursajaiset!</h1>
+<img class="header-image" id="header-img" src="images/tursajaiset-header.png" alt="tursas">
+<div class= "container-centered">
 <hr>
+
+<script>
+$(document).ready(function(){
+    if(window.location.href == "https://htory.fi/tursajaiset/vihjeet/" || window.location.href == "http://htory.fi/tursajaiset/vihjeet/"){
+        $("#header-img").attr("src","images/tursajaiset-logo.png");
+    }
+    else{
+        $("#header-img").attr("src","images/tursajaiset-header.png");
+    }
+})
+
+</script>

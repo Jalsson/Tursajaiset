@@ -63,7 +63,7 @@ function TrimString($str){
     $str = trim($str);
     $str = stripslashes($str);
     $str = htmlspecialchars($str);
-    
+    $str = preg_replace( "/\r|\n/", "", $str );
     return $str;
     
 }

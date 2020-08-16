@@ -1,0 +1,8 @@
+[15-Aug-2020 23:12:21 Europe/Helsinki] PHP Warning:  implode(): Invalid arguments passed in /home/int22448/public_html/kisapanel/admin/content/ajax/load_teamIDs.php on line 14
+[16-Aug-2020 19:03:38 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/int22448/public_html/kisapanel/admin/content/ajax/load_logData.php on line 90
+[16-Aug-2020 19:06:05 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/int22448/public_html/kisapanel/admin/content/ajax/load_logData.php on line 90
+[16-Aug-2020 19:06:19 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/int22448/public_html/kisapanel/admin/content/ajax/load_logData.php on line 90
+[16-Aug-2020 19:06:53 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/int22448/public_html/kisapanel/admin/content/ajax/load_logData.php on line 90
+[16-Aug-2020 19:12:08 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/int22448/public_html/kisapanel/admin/content/ajax/load_logData.php on line 90
+[16-Aug-2020 19:12:25 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/int22448/public_html/kisapanel/admin/content/ajax/load_logData.php on line 90
+[16-Aug-2020 19:42:49 Europe/Helsinki] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/int22448/public_html/kisapanel/admin/content/ajax/load_logData.php on line 90

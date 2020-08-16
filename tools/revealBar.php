@@ -1,24 +1,37 @@
 <?php 
+require 'dbconfig.php';
 require_once "connectToDB.php";
 
 $loginID = $_POST["loginID"];
 $hintNumber = $_POST["hintNumber"];
-$scoresIDArray;
-$result = RunSqlQuery("
-    SELECT bar_scores_ids
-    FROM Team
-    WHERE Team.login_id = $loginID;
-    ");
-if ($result->num_rows > 0) {
-    if ($row = $result->fetch_assoc()) {
-        
-        $scoresIDArray = json_decode($row['bar_scores_ids']);
-        
-        RunSqlQuery("
-            UPDATE Bar_score
-            SET Bar_score.bar_hint_rev = 1
-            WHERE Bar_score.id = {$scoresIDArray[$hintNumber]};
-            ");
+   
+    // Check connection
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
     }
-}
+    
+    $conn = new mysqli($servername, $username, $password, $dbname);
+    
+    $stmt = $conn->prepare("UPDATE Score SET Score.revealed = ? Where Score.id = ?;");
+    $stmt->bind_param("ii", $a = 1,$hintNumber);
+    $stmt->execute();
+    
+    $stmt->close();
+    $conn->close();
+    
+            $result = runSqlQuery("
+        SELECT Bar.id
+        FROM Bar
+        INNER JOIN Score_relation
+            ON Score_relation.score_id = {$hintNumber}
+        WHERE Bar.id = Score_relation.bar_id;
+        ");
+        
+        if ($result->num_rows > 0) {
+            if ($row = $result->fetch_assoc()) {
+                p_Statement_log("Team_log",2,"{$row['id']}",$loginID);
+                }
+            }
+
+    
 ?>
